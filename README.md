@@ -137,4 +137,4 @@ From CSV files to insights, from raw data to real KPIs — this project represen
 
 ---
 
-![Bookstore](Bookstore.jpeg)
+![Bookstore](Bookstore.png)
